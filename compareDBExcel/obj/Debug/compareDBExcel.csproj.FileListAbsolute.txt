@@ -1,0 +1,14 @@
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\bin\Debug\compareDBExcel.exe.config
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\bin\Debug\compareDBExcel.exe
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\bin\Debug\compareDBExcel.pdb
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\obj\Debug\compareDBExcel.csprojResolveAssemblyReference.cache
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\obj\Debug\compareDBExcel.Form1.resources
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\obj\Debug\compareDBExcel.Properties.Resources.resources
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\obj\Debug\compareDBExcel.csproj.GenerateResource.Cache
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\obj\Debug\compareDBExcel.csproj.CoreCompileInputs.cache
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\obj\Debug\compareDBExcel.exe
+c:\users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\obj\Debug\compareDBExcel.pdb
+C:\Users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\bin\Debug\LinqToExcel.dll
+C:\Users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\bin\Debug\log4net.dll
+C:\Users\patryk.kruza\source\repos\compareDBExcel\compareDBExcel\bin\Debug\LinqToExcel.xml
