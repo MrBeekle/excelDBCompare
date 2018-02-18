@@ -1,4 +1,6 @@
-﻿namespace compareDBExcel
+﻿using System.Windows.Forms;
+
+namespace compareDBExcel
 {
     partial class Form1
     {
@@ -29,7 +31,7 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.ListBox1 = new System.Windows.Forms.ListBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.label1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
@@ -48,12 +50,12 @@
             // 
             // listBox1
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(41, 143);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(538, 292);
-            this.listBox1.TabIndex = 1;
+            this.ListBox1.FormattingEnabled = true;
+            this.ListBox1.ItemHeight = 16;
+            this.ListBox1.Location = new System.Drawing.Point(41, 143);
+            this.ListBox1.Name = "listBox1";
+            this.ListBox1.Size = new System.Drawing.Size(538, 292);
+            this.ListBox1.TabIndex = 1;
             // 
             // openFileDialog1
             // 
@@ -96,7 +98,7 @@
             this.Controls.Add(this.listBox2);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.ListBox1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -108,11 +110,13 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox ListBox1;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.ListBox listBox2;
+
+        //public ListBox ListBox1 { get => listBox1; set => listBox1 = value; }
     }
 }
 
